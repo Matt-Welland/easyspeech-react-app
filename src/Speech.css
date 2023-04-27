@@ -1,0 +1,888 @@
+.hungry:after {
+    content: "Hungry";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+}
+
+.thirsty:after {
+    content: "Thirsty";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+}
+
+.hot:after {
+    content: "Too Hot";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+}
+
+.cold:after {
+    content: "Too Cold";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+}
+
+.uncomfy:after {
+    content: "Uncomfortable";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+}
+
+.tired:after {
+    content: "Tired";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+}
+
+.pain:after {
+    content: "In Pain";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+}
+
+.bored:after {
+    content: "Bored";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+}
+
+.food:after {
+    content: "Food";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+}
+
+.drink:after {
+    content: "Drink";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+}
+
+.tea:after {
+    content: "Tea";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+}
+
+.coffee:after {
+    content: "Coffee";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+}
+
+.bathroom:after {
+    content: "The Bathroom";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+}
+
+.sit:after {
+    content: "To Sit Down";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+}
+
+.stand:after {
+    content: "To Stand";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+}
+
+.bed:after {
+    content: "Bed";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+}
+
+.yes:after {
+    content: "Yes";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+}
+
+.no:after {
+    content: "No";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+}
+
+.please:after {
+    content: "Please";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+}
+
+.thank:after {
+    content: "Thank You";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+}
+
+.how-are-you:after {
+    content: "How are you?";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+}
+
+.good:after {
+    content: "I Am Good";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+}
+
+.okay:after {
+    content: "I Am OK";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+}
+
+.not-great:after {
+    content: "I Am Not Great";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+}
+
+.get-ready-now:after,
+.taxi-now:after {
+    content: "...now";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+}
+
+.get-ready-soon:after,
+.taxi-soon:after {
+    content: "...soon";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+}
+
+.get-ready-later:after,
+.taxi-later:after {
+    content: "...later";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+}
+
+.have-look:after {
+    content: "...have a look?";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.have-look {
+    height: 100%;
+}
+
+.coke:after {
+    content: "...coke?";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.lemonade:after {
+    content: "...lemonade?";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.water:after {
+    content: "...water?";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.juice:after {
+    content: "...juice?";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.milk:after {
+    content: "...with milk?";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.milk-one:after {
+    content: "...with milk and one sugar?";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.milk-two:after {
+    content: "...with milk and two sugars?";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.no-milk:after {
+    content: "...with no milk?";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.no-one:after {
+    content: "...with no milk and one sugar?";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.no-two:after {
+    content: "...with no milk and two sugars?";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.help-please:after {
+    content: "Help";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.breakfast:after {
+    content: "Breakfast";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.lunch:after {
+    content: "Lunch";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.dinner:after {
+    content: "Dinner";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.snack:after {
+    content: "Snack";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.fruit:after {
+    content: "Fruit";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.sandwich:after {
+    content: "Sandwich";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.spaghetti:after {
+    content: "Spagetti";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.steak:after {
+    content: "Steak";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.burger:after {
+    content: "Burger";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.curry:after {
+    content: "Curry";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.takeaway:after {
+    content: "Takeaway";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.chocolate:after {
+    content: "Chocolate";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.fish:after {
+    content: "Fish";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.sausages:after {
+    content: "Sausages";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.roast:after {
+    content: "Roast";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.pie:after {
+    content: "Pie";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.bedroom:after {
+    content: "The Bedroom";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;    
+}
+
+.kitchen:after {
+    content: "The Kitchen";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;    
+}
+
+.outside:after {
+    content: "Outside";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;    
+}
+
+.help-me:after {
+    content: "Help Me";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;    
+}
+
+.get-item:after {
+    content: "Pass me that";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;    
+}
+
+.give-item:after {
+    content: "Take this from me";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;    
+}
+
+.go-home:after {
+    content: "Go Home";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;     
+}
+
+.go-out:after {
+    content: "Go Out";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;     
+}
+
+.watch-tv:after {
+    content: "Watch TV";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;     
+}
+
+.behind:after {
+    content: "Behind You";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;     
+}
+
+.left:after {
+    content: "On Your Left";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;     
+}
+
+.right:after {
+    content: "On Your Right";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;     
+}
+
+.point:after {
+    content: "Where I'm Pointing";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;     
+}
+
+.help-please:after {
+    content: "Help Me Please";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;      
+}
+
+.help-this:after {
+    content: "Help Me With This";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;      
+}
+
+.help-you:after {
+    content: "Help You At All?";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;      
+}
+
+.fun:after {
+    content: "Fun";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;      
+}
+
+.boring:after {
+    content: "Boring";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;      
+}
+
+.painful:after {
+    content: "Painful";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;      
+}
+
+.okay:after {
+    content: "Okay";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;      
+}
+
+.funny:after {
+    content: "Funny";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;      
+}
+
+.scary:after {
+    content: "Scary";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;      
+}
+
+.communicate:after {
+    content: "This App To Communicate";
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    font-size: 1.3em;
+    text-align: center;      
+}
